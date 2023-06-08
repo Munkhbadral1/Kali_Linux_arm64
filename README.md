@@ -57,17 +57,17 @@
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.50.36.png "")
 
 ## Step 19
-![alt text]( "")
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.52.01.png "")
 
 ## Step 20
-![alt text]( "")
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.53.00.png "")
 
 ## Step 21
-![alt text]( "")
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.55.12.png "")
 
 ## Step 22
 Virtual Machine-ий navigation bar choose **Drive image options**
-![alt text]( "")
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.19.47.png "")
 
 ## Step 23
 ![alt text]( "")
