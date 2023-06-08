@@ -1,4 +1,4 @@
-# Kali_Linux_arm64
+# How to install **Kali Linux** on Macbook **M1** chip, **ARM64**
 
 ## Step 1 хамгийн эхэнд UTM virtual machine татна.
  <!-- img of 1 utm -->
