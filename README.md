@@ -62,5 +62,22 @@
 ## Step 20
 ![alt text]( "")
 
+## Step 21
+![alt text]( "")
 
+## Step 22
+Virtual Machine-ий navigation bar choose **Drive image options**
+![alt text]( "")
+
+## Step 23
+![alt text]( "")
+
+## Step 24
+![alt text]( "")
+
+## Step 25
+![alt text]( "")
+
+## Step 26
+![alt text]( "")
 
