@@ -72,6 +72,10 @@ Virtual Machine-ий navigation bar choose **Drive image options**
 ### Step 23
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.22.12.png "")
 
+### Step 24
+90 болгоно
+![alt text]( "")
+
 ---
 ```bash
 sudo apt update
