@@ -1,13 +1,13 @@
 # How to install **Kali Linux** on Macbook **M1** chip, **ARM64**
 
-## Step 1 хамгийн эхэнд UTM virtual machine татна.
+### Step 1 хамгийн эхэнд UTM virtual machine татна.
  <!-- img of 1 utm -->
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.24.53.png "UTM")
 
-## Step 2 
+### Step 2 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.27.12.png "Virtualize")
 
-## Step 3
+### Step 3
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.28.14.png "Linux")
 
 ## Step 4
@@ -59,25 +59,22 @@
 ## Step 19
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.52.01.png "")
 
-## Step 20
+### Step 20
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.53.00.png "")
 
-## Step 21
+### Step 21
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.55.12.png "")
 
-## Step 22
+### Step 22
 Virtual Machine-ий navigation bar choose **Drive image options**
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.19.47.png "")
 
-## Step 23
-![alt text]( "")
+### Step 23
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.22.12.png "")
 
-## Step 24
-![alt text]( "")
-
-## Step 25
-![alt text]( "")
-
-## Step 26
-![alt text]( "")
-
+---
+```bash
+sudo apt update
+sudo apt install spice-vdagent spice-webdavd
+sudo reboot
+```
