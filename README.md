@@ -14,6 +14,7 @@
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.29.18.png "Boot ISO Image")
 
 ## Step 5
+    https://old.kali.org/kali-images/kali-2022.2/kali-linux-2022.2-installer-arm64.iso
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.31.59.png "")
 
 ## Step 6
@@ -63,4 +64,3 @@
 
 
 
-https://old.kali.org/kali-images/kali-2022.2/kali-linux-2022.2-installer-arm64.iso
