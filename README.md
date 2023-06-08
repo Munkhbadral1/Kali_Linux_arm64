@@ -71,6 +71,11 @@ Virtual Machine-ий navigation bar choose **Drive image options**
 
 ### Step 23
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.22.12.png "")
+```bash
+sudo apt update
+sudo apt install spice-vdagent spice-webdavd
+sudo reboot
+```
 
 ### Step 24
 90 болгоно
@@ -89,8 +94,3 @@ Virtual Machine-ий navigation bar choose **Drive image options**
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.34.20.png "")
 
 ---
-```bash
-sudo apt update
-sudo apt install spice-vdagent spice-webdavd
-sudo reboot
-```
