@@ -74,7 +74,19 @@ Virtual Machine-ий navigation bar choose **Drive image options**
 
 ### Step 24
 90 болгоно
-![alt text]( "")
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.30.23.png "")
+
+### Step 25
+90 болгоно
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.32.36.png "")
+
+### Step 26
+90 болгоно
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.33.34.png "")
+
+### Step 27
+90 болгоно
+![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2021.34.20.png "")
 
 ---
 ```bash
