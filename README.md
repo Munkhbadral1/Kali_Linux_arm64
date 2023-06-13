@@ -34,16 +34,26 @@ In the "Boot ISO image" section, choose the ISO file provided at https://old.kal
 ## Step 5
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.31.59.png "")
 
-## Step 6
+## Step 6 Hardware
+
+In the "Hardware" section, allocate an appropriate amount of memory based on the available resources on your computer, ensuring you have enough space. Additionally, it is recommended to choose 4 cores for optimal performance.
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.33.02.png "Hardware")
 
-## Step 7
+## Step 7 Storage
+
+In the "Storage" section, allocate a storage size based on the available space on your computer. For example, if you have 32GB available, you can specify that as the size for the drive where data will be stored. Adjust the size according to your specific requirements and available resources.
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.35.36.png "Storage")
 
-## Step 8
+## Step 8 Shared directory
+
+In the "Shared directory" section, you have the option to select a directory on your macOS host system to make accessible inside the virtual machine (VM). Keep in mind that the support for shared directories can vary depending on the guest operating system you are using in UTM. It may require installing additional guest drivers within the VM. For more details and specific instructions, refer to the UTM support pages.
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.37.02.png "Shared Directory")
 
-## Step 9
+## Step 9 Summary
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.39.39.png "Summary")
 
 ## Step 10
