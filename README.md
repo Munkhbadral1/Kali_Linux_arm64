@@ -2,7 +2,7 @@
 
 ### Step 1 install UTM
 
-To install UTM on your macOS M1 device, visit https://mac.getutm.app and download the UTM app, then drag it to the "Applications" folder.
+To install UTM on your macOS M1 device, visit https://mac.getutm.app and download the UTM app, then drag it to the "Applications" folder.\
 After opening UTM, click on the "Create a new virtual machine" button to proceed with setting up a new virtual machine.
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.24.53.png "UTM")
