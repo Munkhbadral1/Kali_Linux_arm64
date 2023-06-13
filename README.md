@@ -1,4 +1,4 @@
-# Kali Linux VM on macOS M1 (ARM64) with UTM
+# Kali Linux :dragon: VM on macOS M1 (ARM64) :computer: with UTM
 
 ### Step 1 install UTM
 
