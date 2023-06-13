@@ -1,7 +1,7 @@
-# How to install **Kali Linux** on Macbook **M1** chip, **ARM64**
+# **Kali Linux** Installation under **UTM** on **macOS M1**
 
 ### Step 1 хамгийн эхэнд UTM virtual machine татна.
- <!-- img of 1 utm -->
+To install UTM on your macOS M1 device, visit https://mac.getutm.app and download the UTM app, then drag it to the "Applications" folder.
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.24.53.png "UTM")
 
 ### Step 2 
