@@ -7,14 +7,17 @@ After opening UTM, click on the "Create a new virtual machine" button to proceed
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.24.53.png "UTM")
 
+
 ### Step 2 
 
-
+Select the "Virtualize" option to proceed with creating a new virtual machine in UTM.
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.27.12.png "Virtualize")
 
+
 ### Step 3
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.28.14.png "Linux")
+
 
 ## Step 4
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.29.18.png "Boot ISO Image")
