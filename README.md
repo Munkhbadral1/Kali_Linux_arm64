@@ -1,4 +1,4 @@
-# **Kali Linux** Installation under **UTM** on **macOS M1**
+# Kali Linux VM on macOS M1 (ARM64) with UTM
 
 ### Step 1 install UTM
 
