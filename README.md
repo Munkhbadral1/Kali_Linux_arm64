@@ -26,10 +26,12 @@ Select "Linux" as the operating system option in UTM.
 
 In the "Boot ISO image" section, choose the ISO file provided at https://old.kali.org/kali-images/kali-2022.2/kali-linux-2022.2-installer-arm64.iso to use as the bootable image for the Kali Linux installation.
 
+    https://old.kali.org/kali-images/kali-2022.2/kali-linux-2022.2-installer-arm64.iso
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.29.18.png "Boot ISO Image")
 
+
 ## Step 5
-    https://old.kali.org/kali-images/kali-2022.2/kali-linux-2022.2-installer-arm64.iso
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.31.59.png "")
 
 ## Step 6
