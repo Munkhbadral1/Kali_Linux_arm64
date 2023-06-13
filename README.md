@@ -8,21 +8,21 @@ After opening UTM, click on the "Create a new virtual machine" button to proceed
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.24.53.png "UTM")
 
 
-### Step 2 Start
+### Step 2 Start :rabbit:
 
 Select the "Virtualize" option to proceed with creating a new virtual machine in UTM.
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.27.12.png "Virtualize")
 
 
-### Step 3 Operating system
+### Step 3 Operating system :penguin:
 
 Select "Linux" as the operating system option in UTM.
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.28.14.png "Linux")
 
 
-## Step 4 Linux 
+## Step 4 Linux :file_folder:
 
 In the "Boot ISO image" section, choose the ISO file provided at https://old.kali.org/kali-images/kali-2022.2/kali-linux-2022.2-installer-arm64.iso to use as the bootable image for the Kali Linux installation.
 
@@ -52,17 +52,17 @@ In the "Shared directory" section, you have the option to select a directory on 
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.37.02.png "Shared Directory")
 
-## Step 9 Summary
+## Step 9 Summary :white_check_mark:
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.39.39.png "Summary")
 
-## Step 10
+## Step 10 :gear:
 
 After naming the virtual machine, you will find a button located in the top left corner resembling a gear or settings icon. Click on this button to access the settings for the virtual machine.
 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.40.35.png "settings")
 
-## Step 11
+## Step 11 :ballot_box_with_check: > :white_check_mark:
 
 In the "Display" settings, enable the "Retina mode" option. UTM supports retina display, which allows the virtual machine to take advantage of the high-resolution capabilities of your Mac's display, resulting in a sharper and more detailed visual experience within the virtual machine environment.
 
