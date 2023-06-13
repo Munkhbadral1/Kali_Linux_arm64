@@ -57,9 +57,15 @@ In the "Shared directory" section, you have the option to select a directory on 
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.39.39.png "Summary")
 
 ## Step 10
+
+After naming the virtual machine, you will find a button located in the top left corner resembling a gear or settings icon. Click on this button to access the settings for the virtual machine.
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.40.35.png "settings")
 
 ## Step 11
+
+In the "Display" settings, enable the "Retina mode" option. UTM supports retina display, which allows the virtual machine to take advantage of the high-resolution capabilities of your Mac's display, resulting in a sharper and more detailed visual experience within the virtual machine environment.
+
 ![alt text](https://github.com/Munkhbadral1/Kali_Linux_arm64/blob/main/img/Screenshot%202023-06-08%20at%2020.42.43.png "Retina Mode")
 
 ## Step 12
