@@ -1,6 +1,6 @@
-# Kali Linux :dragon: VM on macOS M1 (ARM64) :computer: with UTM
+# Kali Linux VM on macOS M1 (ARM64) :computer: with UTM
 
-### Step 1 install UTM
+### Step 1 install UTM :inbox_tray:
 
 To install UTM on your macOS M1 device, visit https://mac.getutm.app and download the UTM app, then drag it to the "Applications" folder.\
 After opening UTM, click on the "Create a new virtual machine" button to proceed with setting up a new virtual machine.
